@@ -1,0 +1,2 @@
+# location-viewer
+view locations
